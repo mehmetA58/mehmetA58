@@ -27,4 +27,5 @@ class Skills extends SoftwareQualityAssuranceEngineer {
   
 }
 
-(https://github-readme-stats.vercel.app/api?username=mehmetA58&show_icons=true&theme=dark)
+![Mehmet's github stats] (https://github-readme-stats.vercel.app/api?username=mehmetA58&show_icons=true&theme=dark)
+⭐️ From [Mehmet](https://github.com/mehmetA58)
