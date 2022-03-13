@@ -1,16 +1,28 @@
 ### Hi there 👋
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mehmetakbayir/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mehmetA58) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter]() [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook]()
 
-<!--
-**mehmetA58/mehmetA58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-Here are some ideas to get you started:
+```js
+import SoftwareQualityAssuranceEngineer from 'akbayirMehmet';
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Bio extends SoftwareQualityAssuranceEngineer {
+  name     = 'Mehmet AKBAYIR';
+  title    = 'Software Quality Assurance Engineer';
+  company  = 'looking for new job | Remote';
+  location = 'İstanbul, TR';
+}
+
+class Skills extends SoftwareQualityAssuranceEngineer {
+  languages  = ['Java','JavaScript'];
+  databases  = ['MySQL','PostgreSQL'];
+  frameworks = ['Cucumber','TestNG','Junit','Maven']; 
+  Automation Testing Tools = ['Selenium','Cucumber','Junit,'REST Assured'];
+  Continuous Integration  = ['Jenkins'];
+  Idea = ['IntelliJ','Eclipse','PostMan','VS Code'];
+  Testing Methods= ['Functional Testing','Smoke Testing','Regression Testing','API Testing','DataBase Testing'];
+  
+}
