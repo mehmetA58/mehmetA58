@@ -43,9 +43,9 @@ class Skills extends SoftwareQualityAssuranceEngineer {
   languages  = ['Java','JavaScript'];
   databases  = ['MySQL','PostgreSQL'];
   frameworks = ['Cucumber','TestNG','Junit','Maven']; 
-  Automation Testing Tools = ['Selenium','Cucumber','Junit,'REST Assured'];
+  Automation Testing Tools = ['Selenium','Cucumber','Junit,'REST Assured','Cypress','Appium'];
   Continuous Integration  = ['Jenkins'];
   Idea = ['IntelliJ','Eclipse','PostMan','VS Code'];
-  Testing Methods= ['Functional Testing','Smoke Testing','Regression Testing','API Testing','DataBase Testing'];
+  Testing Methods= ['FunctionalTesting','SmokeTesting','RegressionTesting','APITesting','DataBase Testing'];
   
 }
