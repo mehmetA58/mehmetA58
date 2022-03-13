@@ -26,3 +26,5 @@ class Skills extends SoftwareQualityAssuranceEngineer {
   Testing Methods= ['Functional Testing','Smoke Testing','Regression Testing','API Testing','DataBase Testing'];
   
 }
+
+(https://github-readme-stats.vercel.app/api?username=mehmetA58&show_icons=true&theme=dark)
