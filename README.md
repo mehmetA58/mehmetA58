@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="right" widht="400" height="250">
+![Mavi Penguen Duvar Kağıdı](https://raw.githubusercontent.com/Elagoht/OneLinePinguin/main/pinguin-blue.png)
 
  ### Hi there 👋 I'm Mehmet. 🌻
 
